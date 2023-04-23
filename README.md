@@ -1,7 +1,7 @@
 # Android-Game-Hyper-Casual
 
 
-LİNK: [link](https://drive.google.com/file/d/19mIDHNTkuwWQDuvzVTYNQxvO6zbdZtDe/view?usp=share_link)
+FİLE LİNK : [Download](https://drive.google.com/file/d/19mIDHNTkuwWQDuvzVTYNQxvO6zbdZtDe/view?usp=share_link)
 
 
 It is a short-term entertainment game by passing the obstacles and enemies that arise as a result of the increase or decrease of the 12 characters formed by passing the values in certain doors.
